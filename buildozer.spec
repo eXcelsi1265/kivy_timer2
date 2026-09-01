@@ -130,7 +130,7 @@ android.ndk_api = 21
 #android.ndk_path =/home/alisa/.buildozer/android/platform/android-ndk-r28c
 
 # (str) Android SDK directory (if empty, it will be automatically downloaded.)
-android.sdk_path = /home/alisa/.buildozer/android/platform/android-sdk
+#android.sdk_path = /home/alisa/.buildozer/android/platform/android-sdk
 
 # (str) ANT directory (if empty, it will be automatically downloaded.)
 #android.ant_path =
