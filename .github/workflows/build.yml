@@ -13,6 +13,11 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
+    - name: Fix alisa path
+      run: |
+        sudo mkdir -p /home/alisa
+        sudo chown runner:runner /home/alisa
+
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
