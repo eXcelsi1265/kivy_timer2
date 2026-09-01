@@ -1,0 +1,13 @@
+.buildozer/
+.venv/
+__pycache__/
+*.pyc
+bin/
+*.apk
+android-ndk-*.zip
+commandlinetools-*.zip
+build.log
+build/
+dist/
+output/
+*.exe
