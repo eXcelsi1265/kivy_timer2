@@ -44,7 +44,7 @@ version = 0.1
 # comma separated e.g. requirements = sqlite3,kivy
 python.version = 3.11.9
 requirements = python3,kivy
-p4a.local_recipes = ./recipes
+#p4a.local_recipes = ./recipes
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
 # requirements.source.kivy = ../../kivy
